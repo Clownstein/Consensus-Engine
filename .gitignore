@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.claude/
+.cursor/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Temporary and generated files
+*.tmp
+*.log
+.tmp/
+
+# Batch review outputs
+batch_review_results.json
+batch_review_results_enhanced.json
+api_interactions_*.jsonl
+api_capture_*.log
+fine_tuning_dataset.jsonl
+
+# OS-specific
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Secrets and private keys
+*.pem
+private-key.pem
+
+# Development
+.env.local
+.env.*.local
+
+# Cache
+*.cache
+.cache/
+
+# Git
+.git/
