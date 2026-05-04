@@ -1,3 +1,5 @@
+![Logo](ConsensusEngine.png)
+
 # Multi-Agent PR Reviewer
 
 Automated GitHub Pull Request reviewer built with FastAPI + LangGraph, powered by three specialized LLM agents:
